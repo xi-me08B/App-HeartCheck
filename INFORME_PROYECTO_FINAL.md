@@ -220,3 +220,15 @@ La base de datos relacional se gestiona localmente en el dispositivo móvil util
 - Sincronización en la nube (Cloud Sync) para respaldo médico de la base SQLite en Firebase o Supabase.
 - Exportación del historial de presión arterial a reportes en formato PDF listos para imprimir o enviar al cardiólogo por WhatsApp.
 - Conexión vía Bluetooth Low Energy (BLE) con tensiómetros digitales de muñeca o brazo para captura automática de lecturas.
+
+---
+
+## 8. DISTRIBUCIÓN Y VERIFICACIÓN DEL APK
+
+- **Archivo:** `HeartCheck-v1.0.0.apk` (paquete `com.grupo03.hearcheck`, versión 1.0.0, build 1).
+- **Tamaño de la APK (MB):** 110.80 MB (MiB, 1 MB = 1,048,576 bytes) / 116.19 MB (decimal, 1 MB = 1,000,000 bytes).
+- **Enlace de GitHub Releases:** https://github.com/xi-me08B/App-HeartCheck/releases/tag/v1.0.0
+- **SHA-256:** `3163f0ba7eeda55fc28cf2f9e3fd3c55385faec41a732e905b299e2ca7675f69`
+- **Build de EAS:** `38f53335-6108-4bde-8418-90029c159dc1` (perfil `production`, `android.buildType: apk`).
+
+El hash corresponde al archivo `HeartCheck-v1.0.0.apk` generado por EAS Build.
